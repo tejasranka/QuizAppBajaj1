@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="your_score">Your Score</string>
+    <string name="Siddhi_Handal">Siddhi Handal</string>
+    <string name="siddhi.handal_bajajfinserv_in">siddhi.handal@bajajfinserv.in</string>
+    <string name="Santosh_thalur">Santosh Thakur</string>
+    <string name="santosh.thakur_bajajfinserv_in">santosh.thakur@bajajfinserv.in</string>
+    <string name="Tejas_Name">Tejas Ranka</string>
+    <string name="tejas.ranka_bajajfinserv_in">tejas.ranka@bajajfinserv.in</string>
+    <string name="quizapp">QuizApp</string>
+</resources>
