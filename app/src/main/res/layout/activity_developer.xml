@@ -44,60 +44,31 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignTop="@+id/textView2"
-        android:layout_alignEnd="@+id/textView7"
-        android:layout_alignRight="@+id/textView7"
-        android:layout_marginTop="81dp"
-        android:layout_marginEnd="19dp"
-        android:layout_marginRight="19dp"
+        android:layout_marginTop="119dp"
+        android:layout_marginLeft="10dp"
         android:text="@string/Siddhi_Handal"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <TextView
         android:id="@+id/textView6"
-        android:layout_width="wrap_content"
+        android:layout_width="302dp"
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView5"
         android:layout_alignEnd="@+id/textView5"
         android:layout_alignRight="@+id/textView5"
         android:layout_marginTop="16dp"
-        android:layout_marginEnd="-97dp"
-        android:layout_marginRight="-97dp"
+
+        android:layout_marginEnd="-166dp"
+        android:layout_marginRight="-166dp"
         android:text="@string/siddhi.handal_bajajfinserv_in"
-        android:textAppearance="?android:attr/textAppearanceMedium" />
-
-    <TextView
-        android:id="@+id/textView7"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textView2"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="152dp"
-        android:text="@string/Santosh_thalur"
-        android:textAppearance="?android:attr/textAppearanceLarge" />
-
-    <TextView
-        android:id="@+id/textView8"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textView7"
-        android:layout_alignStart="@+id/textView7"
-        android:layout_alignLeft="@+id/textView7"
-        android:layout_marginStart="2dp"
-        android:layout_marginLeft="2dp"
-        android:layout_marginTop="23dp"
-        android:text="@string/santosh.thakur_bajajfinserv_in"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <TextView
         android:id="@+id/textView9"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView7"
-        android:layout_alignStart="@+id/textView7"
-        android:layout_alignLeft="@+id/textView7"
-        android:layout_marginStart="-2dp"
-        android:layout_marginLeft="-2dp"
-        android:layout_marginTop="145dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="330dp"
         android:text="@string/tejas.ranka_bajajfinserv_in"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
@@ -106,8 +77,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView2"
-        android:layout_marginLeft="110dp"
-        android:layout_marginTop="275dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="200dp"
         android:text="@string/Tejas_Name"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 </RelativeLayout>
